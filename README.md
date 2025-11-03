@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning **Jetpack Compose**  
+
 💬 Ask me about **Kotlin, Android, Jetpack Compose, Spring Boot, Firebase**  
 📫 How to reach me: [juniorcostadev157@gmail.com](mailto:juniorcostadev157@gmail.com)  
 🌐 Portfolio: [juniorportifolio.vercel.app](https://juniorportifolio.vercel.app/)  
